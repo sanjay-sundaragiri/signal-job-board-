@@ -1,6 +1,6 @@
 # Signal — a job board
 
-A dense, fast job board built with React (Vite) and Tailwind CSS. Built as a UX/feature-detail showcase: a scrolling ticker of new postings, a master-detail split view, a command palette (⌘K), keyboard navigation, saved jobs, filters, and empty/loading states.
+A dense, fast job board built with React (Vite) and Tailwind CSS. Built as a UX/feature-detail showcase: a scrolling ticker of new postings, a master-detail split view, a command palette (⌘K), keyboard navigation, saved jobs, filters, and empty/loading states....
 
 ## Run locally
 
